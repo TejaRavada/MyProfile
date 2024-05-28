@@ -42,7 +42,7 @@
                 {
                     "id": 2,
                     "projectName": "Beej Network Project",
-                    "proImg": "/images/BeejImage1.jpg",
+                    "proImg": "https://github.com/TejaRavada/MyProfile/blob/main/images/BeejImage1.jpg",
                     "tagline": "Beej Network Project A Stylish HTML and CSS Showcase",
                     "Title": "Beej website | A Stylish HTML and CSS Showcase",
                     "Link": "https://beejsimple.netlify.app/",
