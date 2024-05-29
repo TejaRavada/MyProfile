@@ -8,14 +8,14 @@
                 {
                     "id": 1,
                     "projectName": "Coffee",
-                    "proImg": "/images/CoffeeImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link",
                     "tagline": "Coffee Project A Responsive, Single-Page Scroll Website",
                     "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
                     "Link": "https://simpleecoffee.netlify.app/",
                     "images": [
                         "/images/CoffeeImage2.jpg",
                         "/images/CoffeeImage3.jpg",
-                        "/images/CoffeeImage1.jpg"
+                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
                     ],
                     "sub_Content1": "A Responsive, Single-Page Scroll Website",
                     "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
@@ -42,13 +42,13 @@
                 {
                     "id": 2,
                     "projectName": "Beej Network Project",
-                    "proImg": "https://github.com/TejaRavada/MyProfile/blob/main/images/BeejImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1zueBiP-jVedGgN2hY1KeFF9gy5rhmGo6/view?usp=drive_link",
                     "tagline": "Beej Network Project A Stylish HTML and CSS Showcase",
                     "Title": "Beej website | A Stylish HTML and CSS Showcase",
                     "Link": "https://beejsimple.netlify.app/",
                     "images": [
-                        "/images/BeejImage1.jpg",
-                        "/images/BeejImage2.jpg",
+                        "https://drive.google.com/file/d/1zueBiP-jVedGgN2hY1KeFF9gy5rhmGo6/view?usp=drive_link",
+                        "https://drive.google.com/file/d/1w8N03HDqgL9nkp0Ad4ZJL0qEb3mctddG/view?usp=drive_link",
                         "/images/BeejImage3.jpg",
                         "/images/BeejImage4.jpg",
                         "/images/BeejImage5.jpg",
@@ -86,7 +86,7 @@
                 {
                     "id": 3,
                     "projectName": "interior design",
-                    "proImg": "/images/Interiorimage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1fUQAsdKSCXX0niblY5iquGueyByAXIkC/view?usp=drive_link",
                     "tagline": "Interior Design Project A Showcase of Responsive Elegance",
                     "Title": "Interior website | A Showcase of Responsive Elegance",
                     "Link": "https://interiorbootstrap.netlify.app/",
@@ -121,7 +121,7 @@
                 {
                     "id": 4,
                     "projectName": "Fashion Online",
-                    "proImg": "/images/FashionImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1jPmDwoZbsM5y7QaY4PGB8azoJRVy2Qnf/view?usp=drive_link",
                     "tagline": "Fashion Online A Modern and Stylish Online Presence",
                     "Title": "Fashion Online website | A Modern and Stylish Online Presence",
                     "Link": "https://fashionbootstrap.netlify.app/",
@@ -172,12 +172,12 @@
                 {
                     "id": 5,
                     "projectName": "book my hotel",
-                    "proImg": "/images/Hotel_img1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1nqZZyZbHLwneuI4UtUIef6asHcYPLk08/view?usp=drive_link",
                     "tagline": "book my hotel A Journey in Responsive Web Design",
                     "Title": "book my hotel | A Journey in Responsive Web Design",
                     "Link": "https://hotelbootstrap.netlify.app/",
                     "images": [
-                        "/images/Hotel_img1.jpg",
+                        "https://drive.google.com/file/d/1nqZZyZbHLwneuI4UtUIef6asHcYPLk08/view?usp=drive_link",
                         "/images/Hotel_img2.jpg",
                         "/images/Hotel_img3.jpg",
                         "/images/Hotel_img4.jpg",
@@ -226,12 +226,12 @@
                 {
                     "id": 6,
                     "projectName": "Antique Cafe",
-                    "proImg": "/images/imageCafe1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1r0RYbv3lG3cxVBy4cXxcYcVyGJ4qIMRd/view?usp=drive_link",
                     "tagline": "Antique Cafe Modern Web Development Masterpiece ",
                     "Title": "Antique Cafe | A Modern Web Development Masterpiece ",
                     "Link": "https://simpleecoffee.netlify.app/",
                     "images": [
-                        "/images/imageCafe1.jpg",
+                        "https://drive.google.com/file/d/1r0RYbv3lG3cxVBy4cXxcYcVyGJ4qIMRd/view?usp=drive_link",
                         "/images/imageCafe2.jpg",
                         "/images/imageCafe3.jpg",
                         "/images/imageCafe4.jpg"
@@ -269,14 +269,14 @@
                 {
                     "id": 7,
                     "projectName": "Fetch validation tech",
-                    "proImg": "/images/CoffeeImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link",
                     "tagline": "Fetch & validation A Showcase of Modern Web Development Techniques",
                     "Title": "Fetch validation tech | A Showcase of Modern Web Development Techniques",
                     "Link": "",
                     "images": [
                         "/images/CoffeeImage2.jpg",
                         "/images/CoffeeImage3.jpg",
-                        "/images/CoffeeImage1.jpg"
+                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
                     ],
                     "sub_Content1": "A Showcase of Modern Web Development Techniques",
                     "para1": "I am thrilled to introduce my latest Profile Project, an advanced and interactive web application designed using HTML, CSS, Bootstrap, and JavaScript. This project demonstrates my ability to integrate various web technologies to create a responsive, user-friendly, and feature-rich website. The Profile Project is not just a static portfolio but a dynamic platform showcasing my skills, projects, and expertise in modern web development practices.",
@@ -313,14 +313,14 @@
                 {
                     "id": 8,
                     "projectName": "Entertainment",
-                    "proImg": "/images/CoffeeImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link",
                     "tagline": "Entertainment Movies A Modern React Application",
                     "Title": "Entertainment | A Modern Movies React Application",
                     "Link": "",
                     "images": [
                         "/images/CoffeeImage2.jpg",
                         "/images/CoffeeImage3.jpg",
-                        "/images/CoffeeImage1.jpg"
+                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
                     ],
                     "sub_Content1": "A Modern Movies React Application",
                     "para1": [
@@ -358,12 +358,12 @@
                 {
                     "id": 9,
                     "projectName": "Coffee Shop",
-                    "proImg": "/images/ReactCoffee1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1SiEAvCY4yVDeqNxYaPNBgZR_volyvbKc/view?usp=drive_link",
                     "tagline": "Coffee Shop A Modern React Application",
                     "Title": "Coffee Shop | A Modern Coffee Shop React Application",
                     "Link": "",
                     "images": [
-                        "/images/ReactCoffee1.jpg",
+                        "https://drive.google.com/file/d/1SiEAvCY4yVDeqNxYaPNBgZR_volyvbKc/view?usp=drive_link",
                         "/images/ReactCoffee2.jpg",
                         "/images/ReactCoffee3.jpg",
                         "/images/ReactCoffee4.jpg",
@@ -422,7 +422,7 @@
                     "images": [
                         "/images/CoffeeImage2.jpg",
                         "/images/CoffeeImage3.jpg",
-                        "/images/CoffeeImage1.jpg"
+                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
                     ],
                     "sub_Content1": "A Stylish HTML and CSS Showcase",
                     "para1": "I recently completed a project titled 'Beej Network,' which demonstrates my proficiency in HTML and CSS. This project showcases a meticulously designed, responsive webpage that emphasizes clean, modern aesthetics and user-friendly navigation. The Beej Network project is a testament to my ability to create visually appealing and functionally robust web designs.",
@@ -448,12 +448,12 @@
                 {
                     "id": 11,
                     "projectName": "pottery",
-                    "proImg": "/images/PotteryImg1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1Le3mShhlPrKE6N3RfxPBzswKWDIj6Uva/view?usp=drive_link",
                     "tagline": "Beej Network ProjectA Stylish HTML and CSS Showcase",
                     "Title": "Beej website | A Stylish HTML and CSS Showcase",
                     "Link": "",
                     "images": [
-                        "/images/PotteryImg1.jpg",
+                        "https://drive.google.com/file/d/1Le3mShhlPrKE6N3RfxPBzswKWDIj6Uva/view?usp=drive_link",
                         "/images/PotteryImg2.jpg",
                         "/images/PotteryImg3.jpg",
                         "/images/PotteryImg4.jpg",
@@ -507,12 +507,12 @@
                 {
                     "id": 12,
                     "projectName": "Fresh Fram",
-                    "proImg": "/images/FreshImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1abnwlNvXW8cm4pIdD7ocKkq-almI0caE/view?usp=drive_link",
                     "tagline": "Beej Network ProjectA Stylish HTML and CSS Showcase",
                     "Title": "Beej website | A Stylish HTML and CSS Showcase",
                     "Link": "",
                     "images": [
-                        "/images/FreshImage1.jpg",
+                        "https://drive.google.com/file/d/1abnwlNvXW8cm4pIdD7ocKkq-almI0caE/view?usp=drive_link",
                         "/images/FreshImage2.jpg",
                         "/images/FreshImage3.jpg",
                         "/images/FreshImage4.jpg",
@@ -555,14 +555,14 @@
                 {
                     "id": 13,
                     "projectName": "Profile",
-                    "proImg": "/images/CoffeeImage1.jpg",
+                    "proImg": "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link",
                     "tagline": "Coffee Project: A Responsive, Single-Page Scroll Website",
                     "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
                     "Link": "",
                     "images": [
                         "/images/CoffeeImage2.jpg",
                         "/images/CoffeeImage3.jpg",
-                        "/images/CoffeeImage1.jpg"
+                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
                     ],
                     "sub_Content1": "A Responsive, Single-Page Scroll Website",
                     "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
@@ -685,7 +685,7 @@
                 "Ensuring animations were aligned with educational goals and standards",
                 "Collaborating with instructional designers to create effective learning materials."
             ],
-            "icon": "/images/Logo/smc.png"
+            "icon": "https://drive.google.com/file/d/1bjuh-GKxTBYTOVvP4goI-p_4UMQ7gB5p/view?usp=drive_link"
         },
         {
             "id": 3,
@@ -699,7 +699,7 @@
                 "Ensuring animations were engaging and met the educational objectives.",
                 "Participating in storyboarding and concept development for e-learning projects."
             ],
-            "icon": "/images/Logo/code.png"
+            "icon": "https://drive.google.com/file/d/14A0Oqey9h2aPPvSNAtY3yJZEf1kBD1Co/view?usp=drive_link"
         },
         {
             "id": 4,
@@ -713,7 +713,7 @@
                 "Collaborating with the animation team to produce high-quality character animations.",
                 "Participating in the entire animation process, from concept to final output."
             ],
-            "icon": "/images/Logo/Aims.png"
+            "icon": "https://drive.google.com/file/d/1CB3ZXLiW4F62LJDkY69iKioZj3d5GKkT/view?usp=drive_link"
         },
         {
             "id": 5,
@@ -727,7 +727,7 @@
                 "Ensuring animations were aligned with project goals and client expectations.",
                 "Collaborating with the project team to deliver high-quality animations."
             ],
-            "icon": "/images/Logo/openFace.png"
+            "icon": "https://drive.google.com/file/d/12Z75sw_x7ejP5JQ7-mrOSpRnK6-LoEj-/view?usp=drive_link"
         },
         {
             "id": 6,
