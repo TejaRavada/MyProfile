@@ -87,7 +87,7 @@
                 {
                     "id": 3,
                     "projectName": "interior design",
-                    "proImg": "https://drive.google.com/file/d/1fUQAsdKSCXX0niblY5iquGueyByAXIkC/view?usp=drive_link",
+                    "proImg": "https://i.ibb.co/q0CMb1M/Interiorimage1.jpg",
                     "tagline": "Interior Design Project A Showcase of Responsive Elegance",
                     "Title": "Interior website | A Showcase of Responsive Elegance",
                     "Link": "https://interiorbootstrap.netlify.app/",
@@ -562,9 +562,14 @@
                     "Title": "Coffee website | A Responsive, Single-Page Scroll Website",
                     "Link": "",
                     "images": [
-                        "/images/CoffeeImage2.jpg",
-                        "/images/CoffeeImage3.jpg",
-                        "https://drive.google.com/file/d/1B4NEJiFVoGME_WhangfZchzSPNXEcLsj/view?usp=drive_link"
+                        "https://i.ibb.co/JBm4rDB/Profileimage3.jpg",
+                        "https://i.ibb.co/DD1j2KW/Profileimage2.jpg",
+                        "https://i.ibb.co/wMnMbC6/Profileimage1.jpg",
+                        "https://i.ibb.co/wSwgqjd/Profileimage8.jpg",
+                        "https://i.ibb.co/qkhbkmX/Profileimage7.jpg",
+                        "https://i.ibb.co/d00hhG0/Profileimage6.jpg",
+                        "https://i.ibb.co/yyJX024/Profileimage5.jpg",
+                        "https://i.ibb.co/S60gw7T/Profileimage4.jpg"
                     ],
                     "sub_Content1": "A Responsive, Single-Page Scroll Website",
                     "para1": "For my recent project, I embarked on creating a dynamic and visually appealing website dedicated to the world of coffee. This single-page, responsive website was crafted using HTML and CSS, with a focus on delivering a seamless and engaging user experience.",
